@@ -8,10 +8,10 @@ function mbbbp_info() {
 	return array(
 		"name" => "MyBBBridge+",
 		"description" => "Helper plugin for the MyBBBridge+ Visual Studio Code extension.",
-		"website" => "https://github.com/regiratior/MyBBBridgePlus",
-		"author" => "regiratior",
+		"website" => "https://github.com/sowrs/MyBBBridgePlus",
+		"author" => "sowrs",
 		"authorsite" => "https://www.youtube.com/watch?v=SWkMYO9V_-k",
-		"version" => "0.5.0",
+		"version" => "0.5.1",
 		"compatibility" => "*"
 	);
 }
