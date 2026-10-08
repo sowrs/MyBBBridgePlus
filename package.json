@@ -3,7 +3,7 @@
 	"displayName": "MyBBBridge+",
 	"description": "Visual Studio Code extension aimed at making MyBB theme development more convenient.",
 	"version": "0.5.1",
-	"publisher": "sowrs",
+	"publisher": "regiratior",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sowrs/MyBBBridgePlus.git"
