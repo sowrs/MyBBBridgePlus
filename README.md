@@ -17,7 +17,7 @@ To use this extension, you'll need:
 - Visual Studio Code
 - A MyBB forum installation with database access
 - Database credentials (host, port, username, password)
-- [mbbbp.php (download here)](https://github.com/regiratior/MyBBBridgePlus/releases/latest)
+- [mbbbp.php (download here)](https://github.com/sowrs/MyBBBridgePlus/releases/latest)
 
 ## Getting Started
 
@@ -82,7 +82,7 @@ After setup, you can use these commands:
 
 ## Status
 
-This project is in early development. Features are still being added and refined. Please report bugs by [submitting an issue here.](https://github.com/regiratior/MyBBBridgePlus/issues)
+This project is in early development. Features are still being added and refined. Please report bugs by [submitting an issue here.](https://github.com/sowrs/MyBBBridgePlus/issues)
 
 ## Development
 
@@ -96,4 +96,4 @@ To work on this extension:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request on [GitHub](https://github.com/regiratior/MyBBBridgePlus).
+Contributions are welcome! Feel free to open an issue or submit a pull request on [GitHub](https://github.com/sowrs/MyBBBridgePlus).
